@@ -1,7 +1,7 @@
 
-  # Design Ellah's Lab Portfolio (Copy) (Copy)
+  # Design Ellah's Lab Portfolio 
 
-  This is a code bundle for Design Ellah's Lab Portfolio (Copy) (Copy). The original project is available at https://www.figma.com/design/yGGHUOKOBpedIYYNwMQcHu/Design-Ellah-s-Lab-Portfolio--Copy---Copy-.
+  This is a code bundle for Design Ellah's Lab Portfolio. The original project is available at https://www.figma.com/design/yGGHUOKOBpedIYYNwMQcHu/Design-Ellah-s-Lab-Portfolio--Copy---Copy-.
 
   ## Running the code
 
