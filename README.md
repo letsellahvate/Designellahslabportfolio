@@ -1,1 +1,11 @@
-# repo-template
+
+  # Design Ellah's Lab Portfolio (Copy) (Copy)
+
+  This is a code bundle for Design Ellah's Lab Portfolio (Copy) (Copy). The original project is available at https://www.figma.com/design/yGGHUOKOBpedIYYNwMQcHu/Design-Ellah-s-Lab-Portfolio--Copy---Copy-.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
